@@ -1,1 +1,1 @@
-core.exclude**/emacs
+/root/.gitconfig
